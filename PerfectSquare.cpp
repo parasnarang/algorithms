@@ -2,8 +2,8 @@
  *
  * To check whether number is a perfect square
  *
- * Ref : http://www.johndcook.com/blog/2008/11/17/fast-way-to-test-whether-a-number-is-a-square/
- * */
+ * Ref : http://www.johndcook.com/blog/2008/11/17/fast-way-to-test-whether-a-number-is-a-square/ 
+ */
 #include <iostream>
 #include <math.h>
 using namespace std;
